@@ -1,12 +1,13 @@
 # theoracle
 
-A notepad to hub AI related topics.
+A notepad of Ideas related with AI.
 
 It will be made some experiments using Apache Hadoop related technology.
 
 Those ideias will evolve the following topics:
+
 1. Neural Networks
 2. Generative Gramatics (Liguistics)
-3. Priming psychology
+3. Priming (Psychology)
 
-This project will cobine ideas from the tradicional AI, linguistics and Generative Gramatics, 
+The ideias showld be validated using Apache Hadoop (BIG Data) related technologies. 
