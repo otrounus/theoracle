@@ -1,8 +1,6 @@
 # theoracle
 
-A notepad of Ideas related with AI.
-
-It will be made some experiments using Apache Hadoop related technology.
+A notepad of Ideas related to AI.
 
 Those ideias will evolve the following topics:
 
